@@ -1,0 +1,14 @@
+[
+    {
+        "titulo":"Nota 1",
+        "estado":"terminado"
+    },
+    {
+        "titulo":"Nota 2",
+        "estado":"en progreso"
+    },
+    {
+        "titulo":"Nota 3",
+        "estado":"pendiente"
+    }
+]
